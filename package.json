@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/moisesNeto/financial-control-servoce/issues"
   },
-  "homepage": "https://github.com/moisesNeto/financial-control-servoce#readme"
+  "homepage": "https://github.com/moisesNeto/financial-control-servoce#readme",
+  "dependencies": {
+    "restify": "^8.6.0"
+  },
+  "devDependencies": {
+    "@types/restify": "^8.5.2"
+  }
 }
