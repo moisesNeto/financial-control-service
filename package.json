@@ -1,0 +1,20 @@
+{
+  "name": "financial-control-service",
+  "version": "1.0.0",
+  "description": "Sinancial Control Service\r Responsável por controlar os serviços criados para um controle financeiro doméstico.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesNeto/financial-control-servoce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisesNeto/financial-control-servoce/issues"
+  },
+  "homepage": "https://github.com/moisesNeto/financial-control-servoce#readme"
+}
